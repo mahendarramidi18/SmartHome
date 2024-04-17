@@ -1,0 +1,61 @@
+{
+    "headerData":{
+        "title":"LATESTAPPTESTING",
+        "temperature":"22",
+        "humudity":"94",
+        "location":{
+            "state":"Kukatpalli"
+           
+        },
+        "weatherType":"overcast clouds"
+    },
+    "bodyData":[{
+        "title":"Favourite scenes",
+        "data":[{
+            "title":"Switch 1.1 Living room",
+            "status":"off"
+
+        }]
+    },
+    {
+        "title":"Favourite devices",
+        "data":[
+            {
+                "title":"Switch 1.1 Living room",
+                "status":"off"
+
+            },
+            {
+                "title":"Switch 1.2 Living room",
+                "status":"off"
+
+            },
+            {
+                "title":"Switch 1.3 Living room",
+                "status":"off"
+
+            },
+            {
+                "title":"Switch 1.4 Living room",
+                "status":"off"
+
+            },
+            {
+                "title":"Switch 2.1 Living room",
+                "status":"off"
+
+            },
+            {
+                "title":"Switch 2.2 Living room",
+                "status":"off"
+
+            },
+            {
+                "title":"Switch 2.3 Living room",
+                "status":"off"
+
+            }
+        ]
+    }
+]
+}
